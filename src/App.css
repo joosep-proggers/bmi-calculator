@@ -24,9 +24,15 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.weightInput, .heightInput {
+  padding: 2ex;
 }
+
+.sliderValue {
+  display: block;
+}
+
+
 
 @keyframes App-logo-spin {
   from {
