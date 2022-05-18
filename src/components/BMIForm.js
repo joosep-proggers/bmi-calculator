@@ -1,6 +1,5 @@
 import Slider from 'react-input-slider';
 import { useState } from 'react';
-import CalculateBMI from './BMIForm';
 
 const BMIForm = (props) => {
 
